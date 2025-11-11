@@ -8,6 +8,10 @@ Welcome to the Git Tutorial! This repository is designed to teach you the fundam
 - Basic command line knowledge
 - A GitHub account (for remote operations)
 
+## Before you begin
+
+In order to freely work without branch restrictions, fork this repository begin to your personal GitHub account. This will allow you to have full control over the entire repo!
+
 ## Tutorial Structure
 
 This tutorial covers the following Git concepts in order:
